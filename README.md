@@ -4,31 +4,10 @@
 
 ## Sorting Visualizer Web Development Project
 
-The project is made to:
+Using React, Java Script, Materialize.
 
-- understand the working of sorting algorithm
-- check total swaps required
-- check total comparisions
-- compare algorithms side by side
-- know the relative time taken
+![alt text](https://user-images.githubusercontent.com/52111635/129484542-a779c119-d63f-4a3f-b20d-3f734e11d782.PNG)
 
-Features
+![alt text](https://i.imgur.com/uBQbCXB.jpg)
 
-- Sort any given array of 3 digits positive integers
-- Alter the speed of execution
-- Start, pause and reset the execution
-- Generate random array of numbers of sorting
 
-### Technologies
-
-- React with hooks
-- [Styled components](https://styled-components.com/) + [React material](https://material-ui.com/) (css and component libraries)
-- [Zustand](https://github.com/pmndrs/zustand) (hooks based state management library)
-- [Vite](https://vitejs.dev/) (Bundler)
-
-### Features built using
-
-- Animations are done using pure CSS and uses [FLIP principle](https://aerotwist.com/blog/flip-your-animations/)
-- Flex is used for array display and manipulation of positions (flex order property)
-- JavaScript async generators are used heavily for the controlled execution of algorithms
----
