@@ -2,8 +2,6 @@
     Sorting Visualizer
 </h1>
 
-<a><img src="cover.png" alt="cover" /></a>
-
 ## Sorting Visualizer Web Development Project
 
 The project is made to:
@@ -12,7 +10,7 @@ The project is made to:
 - check total swaps required
 - check total comparisions
 - compare algorithms side by side
-- know the time taken (time is just an approximate unit for comparision)
+- know the relative time taken
 
 Features
 
@@ -33,11 +31,4 @@ Features
 - Animations are done using pure CSS and uses [FLIP principle](https://aerotwist.com/blog/flip-your-animations/)
 - Flex is used for array display and manipulation of positions (flex order property)
 - JavaScript async generators are used heavily for the controlled execution of algorithms
-
-### Run in your local
-
-- ```git clone https://github.com/sadanandpai/sorting-visualizer.git```
-- ```npm install``` (after navigating inside the directory)
-- ```npm run dev```
-
 ---
