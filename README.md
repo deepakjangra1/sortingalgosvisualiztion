@@ -2,6 +2,8 @@
     Sorting Visualizer
 </h1>
 
+<a><img src="cover.png" alt="cover" /></a>
+
 ## Sorting Visualizer Web Development Project
 
 The project is made to:
